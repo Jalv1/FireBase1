@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976614920351",
+    "project_id": "esan2024-5193f",
+    "storage_bucket": "esan2024-5193f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976614920351:android:16d96410895c491f53d2aa",
+        "android_client_info": {
+          "package_name": "com.juanalvarado.firebase1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv4sp6SnyKzwo9ru_YpAzaZBghv-lTJWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
