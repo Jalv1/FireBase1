@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FireBase1</string>
+    <string name="valName">Full Name</string>
+    <string name="valCountry">Country</string>
+    <string name="valEmail">Email</string>
+    <string name="valPassword">Password</string>
 </resources>
