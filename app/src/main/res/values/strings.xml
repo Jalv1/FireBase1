@@ -4,4 +4,6 @@
     <string name="valCountry">Country</string>
     <string name="valEmail">Email</string>
     <string name="valPassword">Password</string>
+    <string name="valEmailLogin">Email</string>
+    <string name="valPasswordLogin">Password</string>
 </resources>
